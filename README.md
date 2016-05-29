@@ -6,6 +6,9 @@ This checklist is completely based on OWASP Testing Guide v 4. The OWASP Testing
 ### Contribution
 Your contributions and suggestions are welcome.
 
+### Update by Timo Pagel
+This is a simplified version. This version also adds SAST-Tools.
+
 ### License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
